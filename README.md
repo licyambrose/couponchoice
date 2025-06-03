@@ -66,13 +66,13 @@ Acceptance rate (all others): 29.83%
 
 - Based on these observations, what do you hypothesize about drivers who accepted the bar coupons? 
 Based on the analysis, drivers who accepted bar coupons are more likely to:
---Visit bars more frequently (more than once a month).
---Be younger (especially under 30).
---Have passengers who are not kids.
---Not be widowed.
---Dine at cheap restaurants more than 4 times a month.
---Have a lower income (less than $50,000).
---These patterns suggest that younger, more social drivers with lower incomes and frequent dining or bar habits are more receptive to bar
+- Visit bars more frequently (more than once a month).
+- Be younger (especially under 30).
+- Have passengers who are not kids.
+- Not be widowed.
+- Dine at cheap restaurants more than 4 times a month.
+- Have a lower income (less than $50,000).
+- These patterns suggest that younger, more social drivers with lower incomes and frequent dining or bar habits are more receptive to bar
 
 **6. Deployment**
 - Implementation: Deploy the chosen model into a production environment where it can be used to predict coupon acceptance in real-time or batch processing scenarios.
